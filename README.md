@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/9706702b-b18e-4687-8661-307d1399a0ea)
+![angular one](https://github.com/user-attachments/assets/85f8772a-79af-40f5-8870-10e64685e1dc)
 # Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
